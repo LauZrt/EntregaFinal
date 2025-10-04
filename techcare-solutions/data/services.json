@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mantenimiento preventivo de computadores",
+    "precio": 100000,
+    "descripcion": "Limpieza, optimización y actualización de software.",
+    "cantidad": 20,
+    "promo": true,
+    "emoji": "🧰",
+    "icon": "maint.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Instalación de software básico",
+    "precio": 80000,
+    "descripcion": "Office, antivirus, navegadores y utilidades.",
+    "cantidad": 30,
+    "promo": false,
+    "emoji": "💿",
+    "icon": "software.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Soporte remoto en línea (por hora)",
+    "precio": 50000,
+    "descripcion": "Asistencia a distancia en tiempo real.",
+    "cantidad": 99,
+    "promo": true,
+    "emoji": "🖥️",
+    "icon": "remote.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Respaldo de datos en la nube (50 GB/mes)",
+    "precio": 60000,
+    "descripcion": "Protege tu información en la nube.",
+    "cantidad": 50,
+    "promo": false,
+    "emoji": "☁️",
+    "icon": "cloud.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Recuperación de archivos eliminados",
+    "precio": 150000,
+    "descripcion": "Intento de recuperación de datos en disco.",
+    "cantidad": 10,
+    "promo": false,
+    "emoji": "🗂️",
+    "icon": "recovery.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Optimización de redes Wi-Fi",
+    "precio": 120000,
+    "descripcion": "Mejora cobertura y velocidad en hogar/oficina.",
+    "cantidad": 18,
+    "promo": true,
+    "emoji": "📶",
+    "icon": "wifi.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "Instalación y configuración de impresoras",
+    "precio": 90000,
+    "descripcion": "Instalación, drivers y pruebas de impresión.",
+    "cantidad": 25,
+    "promo": false,
+    "emoji": "🖨️",
+    "icon": "printer.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "Asesoría tecnológica personalizada (1h)",
+    "precio": 70000,
+    "descripcion": "Recomendaciones y guía para tus proyectos.",
+    "cantidad": 40,
+    "promo": false,
+    "emoji": "👨🏻‍💻",
+    "icon": "advice.svg"
+  },
+  {
+    "id": 9,
+    "nombre": "Actualización de hardware básico",
+    "precio": 180000,
+    "descripcion": "RAM, SSD y ajustes de rendimiento.",
+    "cantidad": 12,
+    "promo": true,
+    "emoji": "⚙️",
+    "icon": "hardware.svg"
+  },
+  {
+    "id": 10,
+    "nombre": "Soporte integral para empresas (mensual)",
+    "precio": 500000,
+    "descripcion": "Mesa de ayuda, mantenimiento y monitoreo.",
+    "cantidad": 8,
+    "promo": false,
+    "emoji": "💼",
+    "icon": "b2b.svg"
+  }
+]
