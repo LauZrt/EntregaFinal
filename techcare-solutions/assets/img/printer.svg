@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="g7" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0b1020"/>
+  <g filter="url(#shadow)">
+    <rect x="40" y="40" width="560" height="340" rx="24" fill="url(#g7)" opacity=".12" stroke="#2b3758"/>
+  </g>
+  <g opacity=".85">
+    <circle cx="520" cy="110" r="70" fill="#fbbf24" opacity=".14"/>
+    <circle cx="120" cy="320" r="90" fill="#f59e0b" opacity=".18"/>
+    <path d="M80,120 C140,60 220,60 280,120 S420,180 480,120" fill="none" stroke="#fbbf24" stroke-width="2" opacity=".25"/>
+  </g>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial" font-size="140" fill="white">🖨️</text>
+</svg>
